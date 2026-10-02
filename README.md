@@ -3,6 +3,9 @@ Automated Animatronic Composer is an advanced Roblox animatronic controller desi
 
 [Roblox Animatronic Control System]
 
+<img width="797" height="609" alt="image" src="https://github.com/user-attachments/assets/81ea776e-1d35-44e7-a3c2-dd3b24fc5944" />
+
+
 This script controls animatronics, stage lights, and audio sync in Roblox. It reads binary channels to send commands to the bools.
 
 [System Overview]
